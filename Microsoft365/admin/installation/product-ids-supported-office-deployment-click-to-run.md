@@ -94,6 +94,7 @@ In addition to these product IDs, the following non-Office 365 product IDs are s
 - ProjectStd2019Retail
 - ProjectStd2019Volume
 - ProPlus2019Volume
+- ProPlus2019Retail
 - PublisherRetail
 - Publisher2019Retail
 - Publisher2019Volume
